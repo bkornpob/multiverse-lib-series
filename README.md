@@ -1,4 +1,4 @@
-multiverse-lib-series by >dr.kb< 
+reading series curated by multiverse-lib 
 
 ### hermes-agent series
 - hermes-agent doc

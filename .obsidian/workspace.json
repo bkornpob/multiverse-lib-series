@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0348cf4bfcd8079d",
+        "id": "a8bed364c0c1395b",
         "type": "split",
         "children": [
           {
@@ -28,11 +28,11 @@
             ]
           },
           {
-            "id": "12018c9d67a4872f",
+            "id": "1150f5143fb50b20",
             "type": "tabs",
             "children": [
               {
-                "id": "47e36f7b87a49c4c",
+                "id": "32abaf2cfad5b484",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -189,7 +189,7 @@
       {
         "id": "88cf96d33df667f1",
         "type": "tabs",
-        "dimension": 45.26690391459075,
+        "dimension": 45.26690391459074,
         "children": [
           {
             "id": "f09426503a22be40",
@@ -242,7 +242,7 @@
       {
         "id": "ea32091bd8dc73c7",
         "type": "tabs",
-        "dimension": 27.61565836298933,
+        "dimension": 27.615658362989326,
         "children": [
           {
             "id": "b6d3b62751a02efd",
@@ -279,7 +279,7 @@
       {
         "id": "5a85ef654d377b6a",
         "type": "tabs",
-        "dimension": 27.117437722419933,
+        "dimension": 27.117437722419925,
         "children": [
           {
             "id": "a9a094f610d62dfd",
@@ -313,7 +313,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "47e36f7b87a49c4c",
+  "active": "32abaf2cfad5b484",
   "lastOpenFiles": [
     "README.md",
     "41-targetDOSSIER/gandalf/gandalf-ctf.md",
