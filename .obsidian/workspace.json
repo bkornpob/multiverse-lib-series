@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a8bed364c0c1395b",
+        "id": "69b44139ae56a191",
         "type": "split",
         "children": [
           {
@@ -28,11 +28,11 @@
             ]
           },
           {
-            "id": "1150f5143fb50b20",
+            "id": "628560f91e7a990d",
             "type": "tabs",
             "children": [
               {
-                "id": "32abaf2cfad5b484",
+                "id": "edfd994a18f0ff27",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "right": {
     "id": "c826fb3b7e83afa7",
@@ -189,7 +190,7 @@
       {
         "id": "88cf96d33df667f1",
         "type": "tabs",
-        "dimension": 45.26690391459074,
+        "dimension": 45.26690391459075,
         "children": [
           {
             "id": "f09426503a22be40",
@@ -242,7 +243,7 @@
       {
         "id": "ea32091bd8dc73c7",
         "type": "tabs",
-        "dimension": 27.615658362989326,
+        "dimension": 27.61565836298933,
         "children": [
           {
             "id": "b6d3b62751a02efd",
@@ -279,7 +280,7 @@
       {
         "id": "5a85ef654d377b6a",
         "type": "tabs",
-        "dimension": 27.117437722419925,
+        "dimension": 27.117437722419933,
         "children": [
           {
             "id": "a9a094f610d62dfd",
@@ -295,7 +296,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -313,7 +315,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "32abaf2cfad5b484",
+  "active": "edfd994a18f0ff27",
   "lastOpenFiles": [
     "README.md",
     "41-targetDOSSIER/gandalf/gandalf-ctf.md",
