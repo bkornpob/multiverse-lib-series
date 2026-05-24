@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "69b44139ae56a191",
+        "id": "92f15e61b124b5a1",
         "type": "split",
         "children": [
           {
@@ -28,11 +28,11 @@
             ]
           },
           {
-            "id": "628560f91e7a990d",
+            "id": "03bbf2bf9b4cfeb5",
             "type": "tabs",
             "children": [
               {
-                "id": "edfd994a18f0ff27",
+                "id": "75dbd3dc87863d70",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "right": {
     "id": "c826fb3b7e83afa7",
@@ -190,7 +189,7 @@
       {
         "id": "88cf96d33df667f1",
         "type": "tabs",
-        "dimension": 45.26690391459075,
+        "dimension": 45.26690391459074,
         "children": [
           {
             "id": "f09426503a22be40",
@@ -229,12 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           }
         ],
@@ -243,7 +243,7 @@
       {
         "id": "ea32091bd8dc73c7",
         "type": "tabs",
-        "dimension": 27.61565836298933,
+        "dimension": 27.615658362989326,
         "children": [
           {
             "id": "b6d3b62751a02efd",
@@ -280,7 +280,7 @@
       {
         "id": "5a85ef654d377b6a",
         "type": "tabs",
-        "dimension": 27.117437722419933,
+        "dimension": 27.117437722419925,
         "children": [
           {
             "id": "a9a094f610d62dfd",
@@ -315,9 +315,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "edfd994a18f0ff27",
+  "active": "75dbd3dc87863d70",
   "lastOpenFiles": [
     "README.md",
+    "_templates/_README-hermes-agent.md",
+    "_templates",
     "41-targetDOSSIER/gandalf/gandalf-ctf.md",
     "11-Logs/220-L8_CTF_Absent.log",
     "10-Daily-Notes/220-L8_CTF_Absent_Character.py",
@@ -328,7 +330,6 @@
     "11-Logs/217-L8_CTF_ZSB_Pos.log",
     "10-Daily-Notes/217-L8_CTF_ZSB_Positional.py",
     "11-Logs/216-L8_CTF_ZSB.log",
-    "10-Daily-Notes/216-L8_CTF_ZSB_Direct.py",
     "41-targetDOSSIER/gandalf/GnR_Signature_Matrix.md",
     "00-Inbox/20260426-031938.md",
     "00-Inbox/20260426-015844.md",
@@ -355,7 +356,6 @@
     "10-Daily-Notes/20260425-144649.md",
     "10-Daily-Notes/20260425-012208.md",
     "XX-JPF/Training-Data/04_Agentic_Interaction_Protocols.md",
-    "10-Daily-Notes/20260425-144918.md",
     "90-Assets/image-2.png",
     "22-glyphBreaker/01-test-bert-harmSignal/embedding_plot.png",
     "22-glyphBreaker/embedding_plot.png",
